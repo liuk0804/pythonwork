@@ -1,6 +1,6 @@
 #Introduction to Python
 
-Primarily sourced from Univ. of Colorado's [Fall 2013 Meetups](http://www.meetup.com/University-of-Colorado-Computational-Science-and-Engineering/), I belive this is a great repo for an introduction to the art called Python.
+Primarily sourced from Univ. of Colorado's [Fall 2013 Meetups](http://www.meetup.com/University-of-Colorado-Computational-Science-and-Engineering/), I believe this is a great repo for an introduction to the art called Python.
 
 ##Linux Tutorials
 
@@ -8,7 +8,8 @@ I found these links for other basic introductions:
 - [Introduction to Linux](http://researchcomputing.github.io/Meetup-Fall-2013/pdfs/Linuxclass-1.pdf)
 - [Data Management in Linux](http://researchcomputing.github.io/Meetup-Fall-2013/pdfs/Linuxclass-2.pdf)
 - [Shell Programming](http://researchcomputing.github.io/Meetup-Fall-2013/pdfs/Linuxclass-3.pdf)
-Credit, again, is due to the Univ. of Colorado Research Computing Meet-up page.
+
+Credit, again, is due to the Univ. of Colorado [Research Computing Meet-up page] (http://www.meetup.com/University-of-Colorado-Computational-Science-and-Engineering/).
 
 ## Python for Data Analysis
 
