@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Introduction to Python
 
 Primarily sourced from Univ. of Colorado's [Fall 2013 Meetups](http://www.meetup.com/University-of-Colorado-Computational-Science-and-Engineering/), I believe this is a great repo for an introduction to the art called Python.
@@ -37,3 +38,13 @@ There is a bent towards Data Analysis in this repo - because that's been my prim
 
 
 
+=======
+# pythonwork
+modified version of python_meetup_2013 repo
+A Good Data Scientist need to be good in:
+ - python programming
+ - data analytics
+ - machine learning
+
+try out pull request
+>>>>>>> a5efe8c3ffe5ea517e37194e83cebd5f5890250e
